@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+   	#mb_top_btn{
+		width:50px; 
+		height:20px; 
+		background-color:#69C;
+		/*border:solid #999 thin;*/
+		text-align:center;
+		padding-top:4px;
+		cursor:pointer;
+		
+		border-radius: 8px 8px 0px 0px;
+		-moz-border-radius: 8px 8px 0px 0px;
+		-webkit-border-radius: 8px 8px 0px 0px;
+
+	}
+	#mb_bottom_btn{
+		width:50px; 
+		height:20px;
+		margin-top:2px;
+		background-color:#69C;
+		/*border:solid #999 thin;*/
+		text-align:center;
+		padding-top:4px;
+		cursor:pointer;
+		
+		border-radius: 0px 0px 8px 8px;
+		-moz-border-radius: 0px 0px 8px 8px;
+		-webkit-border-radius: 0px 0px 8px 8px;
+		
+	}
